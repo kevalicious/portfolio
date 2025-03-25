@@ -156,9 +156,9 @@
 
 
 
-      <!--maisonkenyane-->
+      <!--raspberypi-->
 
-      <div class="portfolio_list-two-items isotop-item web">
+      <div class="portfolio_list-two-items isotop-item brand">
 
         <div class="rounded-lg bg-[#fff0f0] p-6 dark:bg-transparent dark:border-[2px] border-[#212425]">
 
@@ -166,17 +166,17 @@
 
             <a href="#portfiloNine" rel="modal:open">
 
-              <img class="w-full cursor-pointer transition duration-200 ease-in-out transform hover:scale-110 rounded-lg h-auto" src="images/work_images/small/maisonkenyane.jpg" alt="portfolio image" />
+              <img class="w-full cursor-pointer transition duration-200 ease-in-out transform hover:scale-110 rounded-lg h-auto" src="images/work_images/small/safcomraspberry.jpg" alt="portfolio image" />
 
             </a>
 
           </div>
 
-          <span class="pt-5 text-[14px] font-normal text-gray-lite block dark:text-[#A6A6A6]">Website Development</span>
+          <span class="pt-5 text-[14px] font-normal text-gray-lite block dark:text-[#A6A6A6]">Saas & Raspberry pi</span>
 
           <h2 class="font-medium cursor-pointer text-xl duration-300 transition hover:text-[#FA5252] dark:hover:text-[#FA5252] dark:text-white mt-2">
 
-            <a href="#portfiloNine" rel="modal:open"> Maison Kenyane - Under development </a>
+            <a href="#portfiloNine" rel="modal:open"> Safaricom  </a>
 
           </h2>
 
@@ -192,7 +192,7 @@
 
           <h2 class="text-[#ef4060] dark:hover:text-[#FA5252] text-4xl text-center font-bold">
 
-            Web design & development
+            Software engineering
 
           </h2>
 
@@ -206,7 +206,7 @@
 
                 Project :&nbsp;
 
-                <span class="font-medium"> Website</span>
+                <span class="font-medium"> Scalextrics & Social vending</span>
 
               </p>
 
@@ -214,9 +214,9 @@
 
                 <i class="fa-solid fa-code text-lg mr-2 hidden sm:block"></i>
 
-                Langages :&nbsp;
+                Technology :&nbsp;
 
-                <span class="font-medium">Php,Jquery,Css3,Html5</span>
+                <span class="font-medium">Raspberry pi</span>
 
               </p>
 
@@ -226,25 +226,11 @@
 
             <div class="space-y-2">
 
-              <p class="dark:text-white flex items-center text-[15px] sm:text-lg">
-
-                <i class="fa-solid fa-arrow-up-right-from-square text-lg mr-2 hidden sm:block"></i>
-
-                &nbsp;
-
-                <span class="font-medium transition-all duration-300 ease-in-out hover:text-[#ef4060]">
-
-                  <a href="https://www.maisonkenyane.com/" target="_blank" rel="noopener noreferrer">www.maisonkenyane.com</a>
-
-                </span>
-
-              </p>
-
               <p class="dark:text-white flex items-center mt-2 lg:mt-0 text-[15px] sm:text-lg">
 
                 <i class="fa-regular fa-user text-lg mr-2 hidden sm:block"></i>
 
-                Client :&nbsp; <span class="font-medium">Maison Kenyane</span>
+                Client :&nbsp; <span class="font-medium">Safaricom</span>
 
               </p>
 
@@ -264,7 +250,7 @@
 
           <div class="pr-3">
 
-            <img class="w-full md:h-[450px] h-auto object-cover rounded-xl mt-6" src="images/work_images/maisonkenyane.jpg" alt="portfolio image" />
+            <img class="w-full md:h-[450px] h-auto object-cover rounded-xl mt-6" src="images/work_images/safcomraspberry2.jpg" alt="portfolio image" />
 
           </div>
 
@@ -274,7 +260,7 @@
 
       </div>
 
-      <!--endmaisonkenyane-->
+      <!--raspberypi-->
 
 
 
