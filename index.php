@@ -165,7 +165,7 @@ $page = $_GET['page']; ?>
 
                                         <i class="fa-solid fa-house"></i>
 
-                                    </span>  </a>
+                                    </span> Home </a>
 
                             </li>
 
@@ -179,7 +179,7 @@ $page = $_GET['page']; ?>
 
                                         <i class="fa-regular fa-user"></i>
 
-                                    </span>  </a>
+                                    </span> About </a>
 
                             </li>
 
@@ -195,7 +195,7 @@ $page = $_GET['page']; ?>
 
                                         <i class="fas fa-briefcase"></i>
 
-                                    </span>  </a>
+                                    </span> Work </a>
 
                             </li>
 
@@ -222,7 +222,7 @@ $page = $_GET['page']; ?>
 
                                         <i class="fa-solid fa-address-book"></i>
 
-                                    </span>  </a>
+                                    </span> Contact </a>
 
                             </li>
 
@@ -276,7 +276,7 @@ $page = $_GET['page']; ?>
 
                                         <i class="fa-solid fa-house"></i>
 
-                                    </span>  </a>
+                                    </span> Home </a>
 
                             </li>
 
@@ -290,7 +290,7 @@ $page = $_GET['page']; ?>
 
                                         <i class="fa-regular fa-user"></i>
 
-                                    </span>  </a>
+                                    </span> About me </a>
 
                             </li>
 
@@ -306,7 +306,7 @@ $page = $_GET['page']; ?>
 
                                         <i class="fas fa-briefcase"></i>
 
-                                    </span>  </a>
+                                    </span> Work </a>
 
                             </li>
 
@@ -333,7 +333,7 @@ $page = $_GET['page']; ?>
 
                                         <i class="fa-solid fa-address-book"></i>
 
-                                    </span>  </a>
+                                    </span> Contact </a>
 
                             </li>
 
