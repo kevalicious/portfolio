@@ -159,13 +159,13 @@ $page = $_GET['page']; ?>
 
                                 <a class="menu-item-two<?php if ($page == 'Home') {
                                                             echo '-active';
-                                                        } ?>" href="?page=Home">
+                                                        } ?>" href="?page=Home" title="Home">
 
                                     <span class="mr-2 text-base">
 
                                         <i class="fa-solid fa-house"></i>
 
-                                    </span> Home </a>
+                                    </span>  </a>
 
                             </li>
 
@@ -173,13 +173,13 @@ $page = $_GET['page']; ?>
 
                                 <a class="menu-item-two<?php if ($page == 'About') {
                                                             echo '-active';
-                                                        } ?>" href="?page=About">
+                                                        } ?>" href="?page=About" title="About me">
 
                                     <span class="mr-2 text-base">
 
                                         <i class="fa-regular fa-user"></i>
 
-                                    </span> About </a>
+                                    </span>  </a>
 
                             </li>
 
@@ -189,13 +189,13 @@ $page = $_GET['page']; ?>
 
                                 <a class="menu-item-two<?php if ($page == 'Work') {
                                                             echo '-active';
-                                                        } ?>" href="?page=Work">
+                                                        } ?>" href="?page=Work" title="My work">
 
                                     <span class="mr-2 text-base">
 
                                         <i class="fas fa-briefcase"></i>
 
-                                    </span> Work </a>
+                                    </span>  </a>
 
                             </li>
 
@@ -216,27 +216,27 @@ $page = $_GET['page']; ?>
 
                                 <a class="menu-item-two<?php if ($page == 'Contact') {
                                                             echo '-active';
-                                                        } ?>" href="?page=Contact">
+                                                        } ?>" href="?page=Contact" title="Contact me">
 
                                     <span class="mr-2 text-base">
 
                                         <i class="fa-solid fa-address-book"></i>
 
-                                    </span> Contact </a>
+                                    </span>  </a>
 
                             </li>
 
                             <li>
 
-                                <a class="menu-item-two<?php if ($page == 'Pay') {
+                                <a class="menu-item-two<?php if ($page == 'Book') {
                                                             echo '-active';
-                                                        } ?>" href="?page=Pay" style="background-color:green;color:#fff">
+                                                        } ?>" href="https://calendly.com/kevin92makau/30min" target="_blank" style="background-color:#0099cc;color:#fff">
 
                                     <span class="mr-2 text-base">
 
                                         <i class="fa-solid fa-coin"></i>
 
-                                    </span> Pay </a>
+                                    </span> Demo </a>
 
                             </li>
 
@@ -270,13 +270,13 @@ $page = $_GET['page']; ?>
 
                                 <a class="mobile-menu-items<?php if ($page == 'Home') {
                                                                 echo '-active';
-                                                            } ?>" href="?page=Home">
+                                                            } ?>" href="?page=Home" title="Home">
 
                                     <span class="mr-2 text-xl">
 
                                         <i class="fa-solid fa-house"></i>
 
-                                    </span> Home </a>
+                                    </span>  </a>
 
                             </li>
 
@@ -284,13 +284,13 @@ $page = $_GET['page']; ?>
 
                                 <a class="mobile-menu-items<?php if ($page == 'About') {
                                                                 echo '-active';
-                                                            } ?>" href="?page=About">
+                                                            } ?>" href="?page=About" title="About me">
 
                                     <span class="mr-2 text-xl">
 
                                         <i class="fa-regular fa-user"></i>
 
-                                    </span> About Me </a>
+                                    </span>  </a>
 
                             </li>
 
@@ -300,13 +300,13 @@ $page = $_GET['page']; ?>
 
                                 <a class="mobile-menu-items<?php if ($page == 'Work') {
                                                                 echo '-active';
-                                                            } ?>" href="?page=Work">
+                                                            } ?>" href="?page=Work" title="My work">
 
                                     <span class="mr-2 text-xl">
 
                                         <i class="fas fa-briefcase"></i>
 
-                                    </span> My Work </a>
+                                    </span>  </a>
 
                             </li>
 
@@ -327,27 +327,27 @@ $page = $_GET['page']; ?>
 
                                 <a class="mobile-menu-items<?php if ($page == 'Contact') {
                                                                 echo '-active';
-                                                            } ?>" href="?page=Contact">
+                                                            } ?>" href="?page=Contact" title="Contact me">
 
                                     <span class="mr-2 text-xl">
 
                                         <i class="fa-solid fa-address-book"></i>
 
-                                    </span> Contact Me </a>
+                                    </span>  </a>
 
                             </li>
 
                             <li>
 
-                                <a class="menu-item-two<?php if ($page == 'Pay') {
+                                <a class="menu-item-two<?php if ($page == 'Book') {
                                                             echo '-active';
-                                                        } ?>" href="?page=Pay" style="background-color:green;color:#fff">
+                                                        } ?>" href="https://calendly.com/kevin92makau/30min" target="_blank" style="background-color:#0099cc;color:#fff">
 
                                     <span class="mr-2 text-base">
 
                                         <i class="fa-solid fa-coin"></i>
 
-                                    </span> Pay </a>
+                                    </span> Demo </a>
 
                             </li>
 
